@@ -1,0 +1,522 @@
+{
+  "628990936282@s.whatsapp.net": {
+    "nama": "D",
+    "umur": 99,
+    "registeredAt": "2025-05-13T01:00:02.284Z"
+  },
+  "6285669122607@s.whatsapp.net": {
+    "nama": "Fara",
+    "umur": 17,
+    "registeredAt": "2025-05-13T01:15:15.715Z"
+  },
+  "6289530950053@s.whatsapp.net": {
+    "nama": "sam",
+    "umur": 19,
+    "registeredAt": "2025-05-13T01:32:51.165Z"
+  },
+  "6285714088549@s.whatsapp.net": {
+    "nama": "Rammm",
+    "umur": 100,
+    "registeredAt": "2025-05-13T02:09:18.242Z"
+  },
+  "6283856943872@s.whatsapp.net": {
+    "nama": "h",
+    "umur": 99,
+    "registeredAt": "2025-05-13T02:18:37.784Z"
+  },
+  "62895322226122@s.whatsapp.net": {
+    "nama": "jesica",
+    "umur": 14,
+    "registeredAt": "2025-05-13T03:30:11.079Z"
+  },
+  "6287834794594@s.whatsapp.net": {
+    "nama": "kyzun",
+    "umur": 16,
+    "registeredAt": "2025-05-13T03:31:49.119Z"
+  },
+  "6283821895342@s.whatsapp.net": {
+    "nama": "edi",
+    "umur": 100,
+    "registeredAt": "2025-05-13T03:41:07.926Z"
+  },
+  "6285828032408@s.whatsapp.net": {
+    "nama": "daftar padil",
+    "umur": 15,
+    "registeredAt": "2025-05-13T04:04:15.398Z"
+  },
+  "62881024425077@s.whatsapp.net": {
+    "nama": "sopp",
+    "umur": 12,
+    "registeredAt": "2025-05-13T04:08:21.139Z"
+  },
+  "6285864220484@s.whatsapp.net": {
+    "nama": "udin",
+    "umur": 99,
+    "registeredAt": "2025-05-13T04:21:45.509Z"
+  },
+  "6285163160023@s.whatsapp.net": {
+    "nama": "vinzz",
+    "umur": 18,
+    "registeredAt": "2025-05-13T05:36:01.549Z"
+  },
+  "6282123017363@s.whatsapp.net": {
+    "nama": "mikee",
+    "umur": 13,
+    "registeredAt": "2025-05-13T05:48:05.379Z"
+  },
+  "6288286636214@s.whatsapp.net": {
+    "nama": "Satúrn",
+    "umur": 17,
+    "registeredAt": "2025-05-13T05:50:03.329Z"
+  },
+  "6282180998747@s.whatsapp.net": {
+    "nama": "alok",
+    "umur": 5,
+    "registeredAt": "2025-05-13T06:08:46.953Z"
+  },
+  "628385047144@s.whatsapp.net": {
+    "nama": "ケイとジル",
+    "umur": 14,
+    "registeredAt": "2025-05-13T07:35:31.041Z"
+  },
+  "6288267105653@s.whatsapp.net": {
+    "nama": "zaky",
+    "umur": 12,
+    "registeredAt": "2025-05-13T07:58:30.277Z"
+  },
+  "6281586627638@s.whatsapp.net": {
+    "nama": "ripokz",
+    "umur": 17,
+    "registeredAt": "2025-05-13T08:26:48.718Z"
+  },
+  "6283861787276@s.whatsapp.net": {
+    "nama": "Billy",
+    "umur": 100,
+    "registeredAt": "2025-05-13T08:46:10.547Z"
+  },
+  "6281261393904@s.whatsapp.net": {
+    "nama": "fadiel",
+    "umur": 17,
+    "registeredAt": "2025-05-13T08:58:21.762Z"
+  },
+  "62881027247687@s.whatsapp.net": {
+    "nama": "fauzan",
+    "umur": 17,
+    "registeredAt": "2025-05-13T09:01:52.751Z"
+  },
+  "6282337327683@s.whatsapp.net": {
+    "nama": "Angga",
+    "umur": 19,
+    "registeredAt": "2025-05-13T09:15:00.530Z"
+  },
+  "6282337693556@s.whatsapp.net": {
+    "nama": "ryeza",
+    "umur": 21,
+    "registeredAt": "2025-05-13T10:28:41.946Z"
+  },
+  "6283105273723@s.whatsapp.net": {
+    "nama": "kelly",
+    "umur": 6,
+    "registeredAt": "2025-05-13T10:37:03.872Z"
+  },
+  "6285789115865@s.whatsapp.net": {
+    "nama": "adri",
+    "umur": 18,
+    "registeredAt": "2025-05-13T11:14:35.222Z"
+  },
+  "62895391033338@s.whatsapp.net": {
+    "nama": "norm",
+    "umur": 12,
+    "registeredAt": "2025-05-13T11:33:26.722Z"
+  },
+  "6281400658536@s.whatsapp.net": {
+    "nama": "Revan",
+    "umur": 16,
+    "registeredAt": "2025-05-13T11:48:02.116Z"
+  },
+  "6282275952823@s.whatsapp.net": {
+    "nama": "seiha",
+    "umur": 17,
+    "registeredAt": "2025-05-13T11:49:23.580Z"
+  },
+  "6287789502133@s.whatsapp.net": {
+    "nama": "leon",
+    "umur": 10,
+    "registeredAt": "2025-05-13T12:17:20.939Z"
+  },
+  "6288989051221@s.whatsapp.net": {
+    "nama": "kingmoli",
+    "umur": 17,
+    "registeredAt": "2025-05-13T12:19:49.482Z"
+  },
+  "6285746097257@s.whatsapp.net": {
+    "nama": "ryouta",
+    "umur": 20,
+    "registeredAt": "2025-05-13T12:29:34.278Z"
+  },
+  "6289637321549@s.whatsapp.net": {
+    "nama": "Jawir",
+    "umur": 18,
+    "registeredAt": "2025-05-13T12:32:29.979Z"
+  },
+  "6282134935030@s.whatsapp.net": {
+    "nama": "sujinem",
+    "umur": 10,
+    "registeredAt": "2025-05-13T12:41:15.838Z"
+  },
+  "6285244939792@s.whatsapp.net": {
+    "nama": "naila",
+    "umur": 13,
+    "registeredAt": "2025-05-13T12:48:04.891Z"
+  },
+  "6285368985752@s.whatsapp.net": {
+    "nama": "ipah",
+    "umur": 16,
+    "registeredAt": "2025-05-13T12:50:07.194Z"
+  },
+  "6285283974711@s.whatsapp.net": {
+    "nama": "Mei",
+    "umur": 17,
+    "registeredAt": "2025-05-13T13:03:59.978Z"
+  },
+  "6287763211118@s.whatsapp.net": {
+    "nama": "ray",
+    "umur": 17,
+    "registeredAt": "2025-05-13T13:04:04.599Z"
+  },
+  "628976934200@s.whatsapp.net": {
+    "nama": "Sur",
+    "umur": 18,
+    "registeredAt": "2025-05-13T13:10:20.504Z"
+  },
+  "6285920763113@s.whatsapp.net": {
+    "nama": "Aisyah",
+    "umur": 16,
+    "registeredAt": "2025-05-13T13:26:28.293Z"
+  },
+  "6282231553873@s.whatsapp.net": {
+    "nama": "Fadhil",
+    "umur": 18,
+    "registeredAt": "2025-05-13T13:59:18.578Z"
+  },
+  "6283819357546@s.whatsapp.net": {
+    "nama": "Zenia",
+    "umur": 16,
+    "registeredAt": "2025-05-13T14:18:30.679Z"
+  },
+  "6285183213467@s.whatsapp.net": {
+    "nama": "Syahrul_Aja",
+    "umur": 14,
+    "registeredAt": "2025-05-13T14:20:05.026Z"
+  },
+  "6285382897557@s.whatsapp.net": {
+    "nama": "daftar Reza",
+    "umur": 17,
+    "registeredAt": "2025-05-13T14:23:36.195Z"
+  },
+  "6281237135914@s.whatsapp.net": {
+    "nama": "daftar mya",
+    "umur": 17,
+    "registeredAt": "2025-05-13T14:24:11.179Z"
+  },
+  "6283879376265@s.whatsapp.net": {
+    "nama": "rio",
+    "umur": 15,
+    "registeredAt": "2025-05-13T14:34:26.599Z"
+  },
+  "6282118956502@s.whatsapp.net": {
+    "nama": "Khalis",
+    "umur": 20,
+    "registeredAt": "2025-05-13T14:43:56.040Z"
+  },
+  "628977289611@s.whatsapp.net": {
+    "nama": "LamjekID",
+    "umur": 15,
+    "registeredAt": "2025-05-13T15:29:55.843Z"
+  },
+  "6283115554654@s.whatsapp.net": {
+    "nama": "eca",
+    "umur": 15,
+    "registeredAt": "2025-05-13T15:45:46.663Z"
+  },
+  "6282131518916@s.whatsapp.net": {
+    "nama": "coyy",
+    "umur": 17,
+    "registeredAt": "2025-05-13T16:33:35.480Z"
+  },
+  "6287814743044@s.whatsapp.net": {
+    "nama": "oi",
+    "umur": 100,
+    "registeredAt": "2025-05-13T16:54:54.478Z"
+  },
+  "6281216450238@s.whatsapp.net": {
+    "nama": "dikilemper",
+    "umur": 77,
+    "registeredAt": "2025-05-13T18:01:22.228Z"
+  },
+  "6281341420202@s.whatsapp.net": {
+    "nama": "kebin",
+    "umur": 18,
+    "registeredAt": "2025-05-13T18:02:26.679Z"
+  },
+  "6285756670934@s.whatsapp.net": {
+    "nama": "sasa",
+    "umur": 40,
+    "registeredAt": "2025-05-13T19:21:05.378Z"
+  },
+  "62895383325566@s.whatsapp.net": {
+    "nama": "Jullae",
+    "umur": 18,
+    "registeredAt": "2025-05-13T20:31:57.578Z"
+  },
+  "6283191336313@s.whatsapp.net": {
+    "nama": "Rizkan",
+    "umur": 12,
+    "registeredAt": "2025-05-13T22:27:49.261Z"
+  },
+  "6285624777119@s.whatsapp.net": {
+    "nama": "fikk",
+    "umur": 17,
+    "registeredAt": "2025-05-13T22:54:05.487Z"
+  },
+  "6285810027827@s.whatsapp.net": {
+    "nama": "kiyaz",
+    "umur": 17,
+    "registeredAt": "2025-05-13T22:54:13.706Z"
+  },
+  "6281373444575@s.whatsapp.net": {
+    "nama": "aca",
+    "umur": 16,
+    "registeredAt": "2025-05-13T23:40:40.390Z"
+  },
+  "6285762171131@s.whatsapp.net": {
+    "nama": "mayy",
+    "umur": 16,
+    "registeredAt": "2025-05-14T00:17:14.321Z"
+  },
+  "6282119666320@s.whatsapp.net": {
+    "nama": "raxx",
+    "umur": 11,
+    "registeredAt": "2025-05-14T00:21:13.888Z"
+  },
+  "50934856343@s.whatsapp.net": {
+    "nama": "gueve dev",
+    "umur": 16,
+    "registeredAt": "2025-05-14T01:10:07.143Z"
+  },
+  "6285971642777@s.whatsapp.net": {
+    "nama": "Raey",
+    "umur": 14,
+    "registeredAt": "2025-05-14T02:40:10.849Z"
+  },
+  "6281292584379@s.whatsapp.net": {
+    "nama": "cesil",
+    "umur": 19,
+    "registeredAt": "2025-05-14T02:47:43.443Z"
+  },
+  "6283122190587@s.whatsapp.net": {
+    "nama": "Xyroo",
+    "umur": 19,
+    "registeredAt": "2025-05-14T03:25:26.091Z"
+  },
+  "6285864157292@s.whatsapp.net": {
+    "nama": "FireboyZ",
+    "umur": 15,
+    "registeredAt": "2025-05-14T03:26:46.038Z"
+  },
+  "6289518334498@s.whatsapp.net": {
+    "nama": "Ryan",
+    "umur": 14,
+    "registeredAt": "2025-05-14T03:47:30.679Z"
+  },
+  "6283839477270@s.whatsapp.net": {
+    "nama": "kontol",
+    "umur": 100,
+    "registeredAt": "2025-05-14T03:50:21.987Z"
+  },
+  "6283139115462@s.whatsapp.net": {
+    "nama": "ryuu",
+    "umur": 18,
+    "registeredAt": "2025-05-14T05:10:52.680Z"
+  },
+  "6285810828593@s.whatsapp.net": {
+    "nama": "fikri",
+    "umur": 15,
+    "registeredAt": "2025-05-14T07:00:54.724Z"
+  },
+  "6287774231994@s.whatsapp.net": {
+    "nama": "DinzID",
+    "umur": 17,
+    "registeredAt": "2025-05-14T11:25:13.230Z"
+  },
+  "6285161415806@s.whatsapp.net": {
+    "nama": "DinzID",
+    "umur": 100,
+    "registeredAt": "2025-05-14T11:41:52.769Z"
+  },
+  "6283167420703@s.whatsapp.net": {
+    "nama": "Mikapler",
+    "umur": 100,
+    "registeredAt": "2025-05-14T11:58:13.292Z"
+  },
+  "6285246308622@s.whatsapp.net": {
+    "nama": "Lev",
+    "umur": 18,
+    "registeredAt": "2025-05-14T12:28:05.284Z"
+  },
+  "6288211995436@s.whatsapp.net": {
+    "nama": "alexaID",
+    "umur": 15,
+    "registeredAt": "2025-05-14T15:01:45.146Z"
+  },
+  "6289506142858@s.whatsapp.net": {
+    "nama": "feyy",
+    "umur": 19,
+    "registeredAt": "2025-05-14T18:34:22.427Z"
+  },
+  "6285717936642@s.whatsapp.net": {
+    "nama": "ryuuuID",
+    "umur": 17,
+    "registeredAt": "2025-05-15T00:59:13.637Z"
+  },
+  "6281285299676@s.whatsapp.net": {
+    "nama": "DinzlD",
+    "umur": 17,
+    "registeredAt": "2025-05-15T01:11:39.499Z"
+  },
+  "6288233996932@s.whatsapp.net": {
+    "nama": "FaaID",
+    "umur": 16,
+    "registeredAt": "2025-05-15T05:54:50.057Z"
+  },
+  "6283836445416@s.whatsapp.net": {
+    "nama": "zenoID",
+    "umur": 17,
+    "registeredAt": "2025-05-15T05:56:08.855Z"
+  },
+  "6282336967144@s.whatsapp.net": {
+    "nama": "kyy",
+    "umur": 16,
+    "registeredAt": "2025-05-15T06:06:54.242Z"
+  },
+  "62895321269802@s.whatsapp.net": {
+    "nama": "aLma",
+    "umur": 99,
+    "registeredAt": "2025-05-15T06:56:30.465Z"
+  },
+  "6283846781034@s.whatsapp.net": {
+    "nama": "Hanzz",
+    "umur": 19,
+    "registeredAt": "2025-05-15T07:59:44.744Z"
+  },
+  "6283841635246@s.whatsapp.net": {
+    "nama": "Gabus",
+    "umur": 9,
+    "registeredAt": "2025-05-15T08:13:54.047Z"
+  },
+  "6285954098299@s.whatsapp.net": {
+    "nama": "misel imup",
+    "umur": 14,
+    "registeredAt": "2025-05-15T12:55:24.931Z"
+  },
+  "6285270781075@s.whatsapp.net": {
+    "nama": "Ail",
+    "umur": 14,
+    "registeredAt": "2025-05-15T14:05:13.670Z"
+  },
+  "6288809786545@s.whatsapp.net": {
+    "nama": "ridwan",
+    "umur": 17,
+    "registeredAt": "2025-05-16T00:54:47.387Z"
+  },
+  "6285124264017@s.whatsapp.net": {
+    "nama": "sergio",
+    "umur": 18,
+    "registeredAt": "2025-05-16T01:50:09.660Z"
+  },
+  "6285183063351@s.whatsapp.net": {
+    "nama": "Rick",
+    "umur": 17,
+    "registeredAt": "2025-05-16T10:44:43.703Z"
+  },
+  "6287820140305@s.whatsapp.net": {
+    "nama": "rapzzID",
+    "umur": 19,
+    "registeredAt": "2025-05-16T11:41:02.403Z"
+  },
+  "6285165126052@s.whatsapp.net": {
+    "nama": "dev esce",
+    "umur": 100,
+    "registeredAt": "2025-05-16T13:20:31.098Z"
+  },
+  "6287833983927@s.whatsapp.net": {
+    "nama": "Rull",
+    "umur": 17,
+    "registeredAt": "2025-05-16T14:17:08.225Z"
+  },
+  "6289676669336@s.whatsapp.net": {
+    "nama": "Xaid",
+    "umur": 16,
+    "registeredAt": "2025-05-16T14:17:44.720Z"
+  },
+  "6285751756986@s.whatsapp.net": {
+    "nama": "cia",
+    "umur": 17,
+    "registeredAt": "2025-05-16T18:01:21.788Z"
+  },
+  "6289508264049@s.whatsapp.net": {
+    "nama": "Alya",
+    "umur": 14,
+    "registeredAt": "2025-05-16T18:04:18.217Z"
+  },
+  "6283159227378@s.whatsapp.net": {
+    "nama": "suki",
+    "umur": 66,
+    "registeredAt": "2025-05-17T01:22:00.108Z"
+  },
+  "6283137492424@s.whatsapp.net": {
+    "nama": "adit",
+    "umur": 69,
+    "registeredAt": "2025-05-17T01:28:04.901Z"
+  },
+  "6285609195580@s.whatsapp.net": {
+    "nama": "Dinz",
+    "umur": 19,
+    "registeredAt": "2025-05-17T02:00:21.098Z"
+  },
+  "6288905436959@s.whatsapp.net": {
+    "nama": "diego gonzalézz",
+    "umur": 13,
+    "registeredAt": "2025-05-17T06:32:33.233Z"
+  },
+  "6289520162219@s.whatsapp.net": {
+    "nama": "—͟͟͞͞ 𝙏𝙪𝙖𝙣 𝙢𝙪𝙙𝙖 𝙫𝙖𝙡𝙯𝙭𝙯𝙭𝙯𝙭𝙯 969",
+    "umur": 17,
+    "registeredAt": "2025-05-17T09:59:40.554Z"
+  },
+  "6285735313551@s.whatsapp.net": {
+    "nama": "Nayy",
+    "umur": 16,
+    "registeredAt": "2025-05-17T10:34:19.947Z"
+  },
+  "6285399667905@s.whatsapp.net": {
+    "nama": "fadli",
+    "umur": 15,
+    "registeredAt": "2025-05-17T13:53:32.933Z"
+  },
+  "6281371864145@s.whatsapp.net": {
+    "nama": "rdzwutwut",
+    "umur": 13,
+    "registeredAt": "2025-05-17T13:55:42.717Z"
+  },
+  "6285656080339@s.whatsapp.net": {
+    "nama": "fqr",
+    "umur": 18,
+    "registeredAt": "2025-05-17T14:21:40.940Z"
+  },
+  "6288985273391@s.whatsapp.net": {
+    "nama": "p",
+    "umur": 81,
+    "registeredAt": "2025-05-17T15:15:39.308Z"
+  }
+}
